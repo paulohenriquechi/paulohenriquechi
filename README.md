@@ -1,6 +1,6 @@
 ### Olá! Me chamo Paulo Henrique Chi! 👋
 - Estudante de Ciência da Computação na Universidade São Judas Tadeu. 
-- Atualmente estudando Desenvolvimento Front-End.
+- Atualmente estudando Desenvolvimento Back-End.
 <div> 
   <a href="https://www.linkedin.com/in/paulohenriquechi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:paulo.henrique.chi@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
